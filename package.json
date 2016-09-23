@@ -1,5 +1,5 @@
 {
-  "name": "utaha",
+  "name": "learn-react-redux",
   "version": "0.0.0",
   "description": "Simple notepad webapp built for learning redux",
   "private": true,
